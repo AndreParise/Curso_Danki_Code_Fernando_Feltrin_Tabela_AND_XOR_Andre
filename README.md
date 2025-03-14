@@ -1,0 +1,2 @@
+# Curso_Danki_Code_Fernando_Feltrin_Tabela_AND_XOR_Andre
+Estudo Sobre Perceptron
